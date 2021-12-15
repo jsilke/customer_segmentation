@@ -16,12 +16,12 @@ We will be using old data about different financial transactions. You can downlo
 - twm_customer - information about customers
 - twm_accounts - information about accounts
 - twm_checking_accounts - information about checking accounts (subset of twm_accounts)
-- twm_credit_accounts - information about checking accounts (subset of twm_accounts)
-- twm_savings_accounts - information about checking accounts (subset of twm_accounts)
+- twm_credit_accounts - information about credit accounts (subset of twm_accounts)
+- twm_savings_accounts - information about savings accounts (subset of twm_accounts)
 - twm_transactions - information about financial transactions
 - twm_savings_tran - information about savings transactions (subset of twm_transactions)
-- twm_checking_tran - information about savings transactions (subset of twm_transactions)
-- twm_credit_tran - information about credit checking (subset of twm_transactions)
+- twm_checking_tran - information about checking transactions (subset of twm_transactions)
+- twm_credit_tran - information about credit transactions (subset of twm_transactions)
 
 
 ### Output

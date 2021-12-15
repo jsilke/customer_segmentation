@@ -1,6 +1,8 @@
-
+EDA_snippets.py
+data
 *.csv
 *.zip
 *.pyc
 *.ipynb_checkpoints
 *.DS_store
+*.png
