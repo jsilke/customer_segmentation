@@ -1,8 +1,11 @@
+gower_df
 EDA_snippets.py
 data
+__pycache__
 *.csv
 *.zip
 *.pyc
 *.ipynb_checkpoints
 *.DS_store
 *.png
+*.pptx
